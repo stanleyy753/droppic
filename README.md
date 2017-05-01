@@ -1,0 +1,2 @@
+# droppic
+springboot for azure
